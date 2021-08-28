@@ -3,6 +3,15 @@
 const person = {<br/>
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
+  country: "Russia",<br/>
+  location: "Irkutsk",<br/>
+  age: "Little more than the age of the earth",<br/>
+  hobbies: [<br/>
+  "Breathing",<br/>
+  "Programming",<br/>
+  "Video games",<br/>
+  ],<br/>
+  state: "Funny"<br/>
 }
 ### Languages and Technologies:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
