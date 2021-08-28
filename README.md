@@ -1,6 +1,6 @@
 # 👋 Hi my name is **Evgeny Plugarev**!
 ## I'm *Frontend Developer* from Irkutsk.
-const person = {
+const person = {<br/>
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
 }
