@@ -6,11 +6,9 @@
   country: "Russia",<br/>
   location: "Irkutsk",<br/>
   age: "Little more than the age of the earth",<br/>
-  hobbies: [<br/>
-  "Breathing",<br/>
+  hobbies: ["Breathing",<br/>
   "Programming",<br/>
-  "Video games",<br/>
-  ],<br/>
+  "Video games"],<br/>
   state: "Funny"<br/>
 }
 </pre>
