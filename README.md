@@ -6,7 +6,7 @@
   country: "Russia",<br/>
   location: "Irkutsk",<br/>
   age: "Little more than the age of the earth",<br/>
-  hobbies: ["Breathing", "Programming", "Video games"],
+  hobbies: ["Breathing", "Programming", "Video games"],<br/>
   state: "Funny"<br/>
 }
 </pre>
