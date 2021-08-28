@@ -1,7 +1,7 @@
 # 👋 Hi my name is **Evgeny Plugarev**!
 ## I'm *Frontend Developer* from Irkutsk.
 ### const person = {
-### name: "Evgeny',<br/>
+###   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
 }
 ### Languages and Technologies:
