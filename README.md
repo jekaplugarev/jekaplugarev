@@ -1,8 +1,8 @@
 # 👋 Hi my name is **Evgeny Plugarev**!
 ## I'm *Frontend Developer* from Irkutsk.
 ### const person = {
-  name: "Evgeny',
-  lastname: "Plugarev",
+  name: "Evgeny',<br/>
+  lastname: "Plugarev",<br/>
 }
 ### Languages and Technologies:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
