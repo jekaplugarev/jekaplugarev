@@ -1,5 +1,4 @@
-# 👋 Hi, my name is **Evgeny Plugarev**!
-# I'm Frontend Developer
+# 👋 Hi, my name is **Evgeny Plugarev**! I'm Frontend Developer
 <pre>const person = {<br/>
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
@@ -22,5 +21,6 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 </p>
+
 ### :e-mail: Mail me: jeka_plugarev@mail.ru
 ### :globe_with_meridians: Telegram: @Jeka_Pl
