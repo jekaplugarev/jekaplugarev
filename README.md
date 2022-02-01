@@ -1,5 +1,5 @@
 # 👋 Hi my name is **Evgeny Plugarev**!
-## I'm *Frontend Developer* from Irkutsk.
+## I'm *Frontend Developer*
 <pre>const person = {<br/>
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
