@@ -3,7 +3,7 @@
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
   country: "Russia",<br/>
-  location: "Irkutsk",<br/>
+  location: "Kaliningrad",<br/>
   age: "Little more than the age of the earth",<br/>
   hobbies: ["Breathing", "Programming", "Video games"],<br/>
   state: "Funny"<br/>
