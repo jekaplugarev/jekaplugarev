@@ -2,8 +2,8 @@
 <pre>const person = {<br/>
   name: "Evgeny',<br/>
   lastname: "Plugarev",<br/>
-  country: "Russia",<br/>
-  location: "Kaliningrad",<br/>
+  country: "Cyprus",<br/>
+  location: "Limassol",<br/>
   age: "Little more than the age of the earth",<br/>
   hobbies: ["Breathing", "Programming", "Video games"],<br/>
   state: "Funny"<br/>
