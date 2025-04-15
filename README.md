@@ -23,6 +23,6 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 </p>
 
-### :e-mail: Mail me: jeka_plugarev@mail.ru
-### :globe_with_meridians: Telegram: @Jeka_Pl
+### :e-mail: Mail me: plugarev.job@gmail.com
+### :globe_with_meridians: Telegram: @evgeny_plugarev
 ### My LeetCode: https://leetcode.com/JekaPl
